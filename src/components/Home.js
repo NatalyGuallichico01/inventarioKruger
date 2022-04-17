@@ -54,7 +54,7 @@ class Home extends Component {
   peticionPut=()=>{
     axios.put(baseUrl+this.state.form.id, this.state.form).then(response=>{
       this.modalEdit();
-      //this.peticionGet();
+      this.peticionGet();
     })
   }
 
