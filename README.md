@@ -1,6 +1,6 @@
 # Inventario de vacunación de empleados
 
-###Mockup Básico
+### Mockup Básico
 [![](https://i.postimg.cc/1RVT65jb/img.png)](https://postimg.cc/LhRNFRRV)
 
 
