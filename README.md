@@ -1,8 +1,8 @@
 # Inventario de vacunación de empleados
+
 ###Mockup Básico
 [![](https://i.postimg.cc/1RVT65jb/img.png)](https://postimg.cc/LhRNFRRV)
 
-------------
 
 ### Instalación
 - Clonar el el repositorio ( git clone https://github.com/NatalyGuallichico01/inventarioKruger.git)
