@@ -16,7 +16,7 @@
      - Para utilizar rutas dentro de react (npm i react-router-dom)
 	 - Para utilizar bootstrap en react (npm i bootstrap reactstrap axios)
 	 - Para utlizar los iconos de Font Awesome en react (
-             - npm i --save @fortawesome/fontawesome-svg-core
-             - npm install --save @fortawesome/free-solid-svg-icons
-             - npm install --save @fortawesome/react-fontawesome)
+              - npm i --save @fortawesome/fontawesome-svg-core
+              - npm install --save @fortawesome/free-solid-svg-icons
+              - npm install --save @fortawesome/react-fontawesome)
 
